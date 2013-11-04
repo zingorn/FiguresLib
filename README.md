@@ -1,4 +1,4 @@
-FiguresLib
-==========
+Figures
+=======
 
-Figures Library
+Figures
